@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <fieldset>
+        <title>Dados do Integrante</title>
+        <label>Nome</label>
+        <input type="text" name="NomeInte" placeholder="Insira o nome">
+        <br><br/>
+        <label>Data de Nascimento</label>
+        <input type="date" name="IdadInte" placeholder="Insira a Data de Nascimento">
+        <br><br/>
+        <label>RG</label>
+        <input type="text" name="RGInte" placeholder="Insira o RG">
+        <br><br/>
+        <label>Endereço</label>
+        <input type="text" name="Endereco" placeholder="Insira o Endereço">
+        <br><br/>
+        <label>CPF</label>
+        <input type="number" name="CPF" placeholder="Insira o CPF">
+        <br><br/>
+        <label>Telefone</label>
+        <input type="number" name="telef" placeholder="Insira o telefone">
+        <br><br/>
+        </fieldset>
+</body>
+</html>
