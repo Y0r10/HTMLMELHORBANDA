@@ -24,5 +24,9 @@
         <input type="number" name="telef" placeholder="Insira o telefone">
         <br><br/>
         </fieldset>
+        
+    <a href="LISTA.html">
+        <button>voltar</button>
+    </a>
 </body>
 </html>
