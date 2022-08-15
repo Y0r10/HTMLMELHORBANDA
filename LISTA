@@ -2,8 +2,9 @@
 <head>
     <title>ListaBanda</title>
 </head>
-<body bgcolor="#1E90FF">
-    <table border="4" width="30%" height="30%">
+<body bgcolor="#1E90FF" >
+    <font align="center"> <h2>TENACIOUS D </h2></font>
+    <table border="4" width="40%" height="40%" align="center">
         <tr bgcolor="red">
         <td><font size="5" color="green">NOME DOS INTEGRANTES</font></td>
         <td>PROFISSÃO</td>
@@ -22,6 +23,11 @@
         <td>14/07/1960</td> 
 
     </table>
-    </font>
-</body>
+    <a href="HOMEPAGE.html">
+        <button>voltar</button>
+    </a>
+    <a href="cadastro.html">
+        <button>CADASTRAR-SE</button>
+    </a>
+</body> 
 </html>
