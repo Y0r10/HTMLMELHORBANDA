@@ -10,9 +10,8 @@
        SE PREPARE<BR> PARA CONHECER<BR> A <BR> MELHOR<BR>BANDA<BR>DO MUNDO<BR> I N T E I R O
         </font></h2>
     </font>
-    <a href="">
-    
-
-
+    <a href="LISTA.html">
+        <button align="center">LISTA DA BANDA</button>
+    </a>
 </body>
 </html>
